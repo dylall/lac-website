@@ -1,23 +1,23 @@
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas-100.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas-100.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.svg') format('svg');
     font-weight: 100;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/blob/master/fonts/Heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/Heavitas.svg') format('svg');
     font-weight: 200;
     font-style: normal;
 
@@ -28,12 +28,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 300;
     font-style: normal;
 
@@ -43,12 +43,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 300;
     font-style: italic;
 
@@ -58,12 +58,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 400;
     font-style: normal;
 
@@ -73,12 +73,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 400;
     font-style: italic;
 
@@ -88,12 +88,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 500;
     font-style: normal;
 
@@ -103,12 +103,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 500;
     font-style: italic;
 
@@ -118,12 +118,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 600;
     font-style: normal;
 
@@ -133,12 +133,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 600;
     font-style: italic;
 
@@ -148,12 +148,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 700;
     font-style: normal;
 
@@ -163,12 +163,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 700;
     font-style: italic;
 
@@ -176,12 +176,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 800;
     font-style: normal;
 
@@ -191,12 +191,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 800;
     font-style: italic;
 
@@ -204,12 +204,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 900;
     font-style: normal;
 
@@ -219,12 +219,12 @@
 
 @font-face {
     font-family: 'heavitas';
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot');
-    src: url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff2') format('woff2'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.woff') format('woff'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.ttf') format('truetype'),
-         url('https://cdn.rawgit.com/dylall/lac-website/tree/master/fonts/heavitas.svg') format('svg');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot');
+    src: url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.eot?#iefix') format('embedded-opentype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff2') format('woff2'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.woff') format('woff'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.ttf') format('truetype'),
+         url('https://github.com/dylall/lac-website/raw/master/fonts/heavitas.svg') format('svg');
     font-weight: 900;
     font-style: italic;
 
